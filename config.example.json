@@ -1,0 +1,9 @@
+{
+  "name": "Kappabot",
+  "network": "dreamhack.se.quakenet.org",
+  "port": "6667",
+  "channels": [
+    "#kappa",
+    "#keepo"
+  ]
+}
